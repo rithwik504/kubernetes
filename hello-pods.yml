@@ -7,9 +7,4 @@ spec:
     containers:
      - name : web
        image: nginx1.27
-
-
-  
-
-
-
+---
