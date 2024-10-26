@@ -1,3 +1,4 @@
+sample code
 ---
 aipVersion: v1
 kind: Pod
@@ -9,7 +10,7 @@ spec:
       image: nginx1.27
     - name: web-2
       image: busybox1.37
-
+sample code
 ---
 apiVersion: v1
 kind: Pod
