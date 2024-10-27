@@ -13,3 +13,5 @@ creating a  container in pod with kubernetes  in yaml data representation format
 * kubectl get pods <pod-name> -o yaml
 * To watch the changes
 * kubectl get pods -w
+* To enter into your pod
+* kubectl exec -it <your-pod-name>
